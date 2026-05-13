@@ -1,12 +1,15 @@
-# CloudPlus Journey 
+# Cloud+ Study Repository
 
-This repository documents my journey learning cloud computing and cybersecurity concepts including:
+This repository documents my learning journey while preparing for the CompTIA Cloud+ (CV0-004) certification.
 
-- Cloud+ studies
-- Troubleshooting concepts
-- Networking fundamentals
-- Security concepts
-- Labs and hands-on learning
-- GRC/security documentation
+Topics studied include:
+- Cloud Architecture
+- AWS & Azure Fundamentals
+- Networking
+- Security
+- DevOps
+- Troubleshooting
+- Monitoring & Optimization
+- Backup & Recovery
 
-Currently pursuing continuous growth in cloud and cybersecurity technologies. 
+This repository contains personal notes, learning summaries, and technical practice concepts created for educational and portfolio purposes.
