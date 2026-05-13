@@ -1,4 +1,4 @@
-# CloudPlus-Journey
+# Cybersecurity-Journey
 
 ## About Me
 Aspiring cybersecurity and cloud professional currently building foundational knowledge in networking, security, troubleshooting, cloud technologies, and technical documentation.
