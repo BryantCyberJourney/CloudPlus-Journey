@@ -1,23 +1,16 @@
-# Cloud+ Study Repository
+# CloudPlus-Journey
 
-This repository documents my learning journey while preparing for the CompTIA Cloud+ (CV0-004) certification.
+## About Me
+Aspiring cybersecurity and cloud professional currently building foundational knowledge in networking, security, troubleshooting, cloud technologies, and technical documentation.
 
-Topics studied include:
-- Cloud Architecture
-- AWS & Azure Fundamentals
-- Networking
-- Security
-- DevOps
-- Troubleshooting
-- Monitoring & Optimization
-- Backup & Recovery
+---
 
-This repository contains personal notes, learning summaries, and technical practice concepts created for educational and portfolio purposes.
+## About This Repository
+This repository documents my learning journey while preparing for the CompTIA Cloud+ (CV0-004) certification and expanding my cybersecurity knowledge.
 
-## Certifications & Training
-- ISC2 Certified in Cybersecurity (CC)
-- CompTIA IT Fundamentals (ITF+)
-- Currently preparing for CompTIA Cloud+ (CV0-004)
+The material included here reflects my personal notes, learning summaries, troubleshooting concepts, networking fundamentals, security concepts, and technical practice topics studied throughout my training.
+
+---
 
 ## Current Learning Focus
 - Cloud Computing Fundamentals
@@ -27,7 +20,26 @@ This repository contains personal notes, learning summaries, and technical pract
 - Cloud Security Concepts
 - GitHub & Technical Documentation
 
-- ## Tools & Technologies
+---
+
+## Certifications & Training
+- ISC2 Certified in Cybersecurity (CC)
+- CompTIA IT Fundamentals (ITF+)
+- Currently preparing for CompTIA Cloud+ (CV0-004)
+
+---
+
+## Repository Contents
+- Cloud troubleshooting notes
+- Networking basics
+- Security fundamentals
+- Common networking ports
+- IAM concepts
+- Cloud and cybersecurity learning summaries
+
+---
+
+## Tools & Technologies
 - GitHub
 - Git
 - AWS Fundamentals
@@ -36,10 +48,16 @@ This repository contains personal notes, learning summaries, and technical pract
 - Virtualization Concepts
 - Cloud Security Concepts
 
-- ## Labs & Practice Areas
-- Cloud Troubleshooting
-- Networking Basics
-- Security Fundamentals
-- IAM Concepts
-- Common Networking Ports
-- Cloud Deployment Concepts
+---
+
+## Goals
+- Strengthen cybersecurity and cloud knowledge
+- Continue building hands-on technical skills
+- Improve troubleshooting and networking concepts
+- Develop technical documentation skills
+- Successfully obtain the CompTIA Cloud+ certification
+
+---
+
+## Disclaimer
+This repository contains personal learning notes and summaries created for educational and portfolio purposes. No proprietary lab instructions, exam questions, or copyrighted course materials are intentionally included.
