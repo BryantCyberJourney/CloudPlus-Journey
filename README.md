@@ -1,4 +1,4 @@
-![Cybersecurity Banner](Cybersecurity.png)
+![Cybersecurity Banner](banner.png)
 
 # Cybersecurity-Journey
 
