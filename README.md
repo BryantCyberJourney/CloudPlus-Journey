@@ -1,3 +1,5 @@
+![Cybersecurity Banner](Cybersecurity.png)
+
 # Cybersecurity-Journey
 
 ## About Me
